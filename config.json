@@ -6,7 +6,7 @@
   "autoClean": true,
   "adminOnly": false,
   "encryptSt": true,
-  "UPTIME": 200,
+  "UPTIME": 99999999,
   "commandDisabled": [],
   "eventDisabled": [],
   "BOTOWNER": "yoya",
@@ -15,7 +15,7 @@
   "BOTCREATOR": "yoya",
   "CREATORLINK": "https://www.facebook.com/profile.php?id=61557746636658",
   "CREATORID": "100095262681590",
-  "BOTNAME": "yarabotpack",
+  "BOTNAME": "rayabotpack",
   "PREFIX": "/",
   "ADMINBOT": [
     "100095262681590",
