@@ -15,10 +15,12 @@
   "BOTCREATOR": "yoya",
   "CREATORLINK": "https://www.facebook.com/profile.php?id=61557746636658",
   "CREATORID": "100095262681590",
-  "BOTNAME": "yiyibotpack",
+  "BOTNAME": "RAYABOT",
   "PREFIX": "/",
   "ADMINBOT": [
-    "100095262681590"
+    "100095262681590",
+    "100071118324739"
+    
   ],
   "DESIGN": {
     "Title": "yoya",
