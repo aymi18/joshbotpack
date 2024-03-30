@@ -23,7 +23,9 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
     "are you okay?",
     "wanna fight?",
     "yummy my hotdog my tummy.",
-    "ugh hahaha" 
+    "ugh hahaha",
+    "yes lovey?",
+    "miss moko?"
   ];
 
   var rand = tl[Math.floor(Math.random() * tl.length)];
