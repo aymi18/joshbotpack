@@ -30,15 +30,15 @@ module.exports.handleEvent = function ({ api, event, client, __GLOBAL }) {
             // Send text message with prefix information
             api.sendMessage(
                 {
-                    body: `🛑‎━━━━━━━━━━━━━━🛑
-GP NAME : https://facebook.com/groups/221629220951298/
+                    body: `🐼━━━━━━━━━━━━━━🐼
+OWNER NAME : yoya/aymi
 ━━━━━━━━━━━━━━━━
 MY prefix is : ${global.config.PREFIX}
 ━━━━━━━━━━━━━━━━━
 time : ${global.client.getTime("fullTime")}
 
 🛑━━━━━━━━━━━━━━━🛑
-DEVELOPER :  https://www.facebook.com/profile.php?id=100088690249020`,
+DEVELOPER :   https://www.facebook.com/100095262681590`,
                     attachment: fs.createReadStream(
                         __dirname + `/noprefix/prefix.jpg`
                     ),
